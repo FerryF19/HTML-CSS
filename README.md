@@ -151,4 +151,7 @@ HTML & CSS I
   - Anda dapat mengelompokkan CSS yang sama dengan memisahkan beberapa selector dengan koma , seperti yang ditunjukkan pada gambar tengah. Dengan melakukan hal tersebut, Anda 
   dapat menerapkan CSS yang sama ke berbagai selector. Untuk situs web kita, mari terapkan CSS yang sama ke element <input> dan <textarea> menggunakan metode ini.
   
+  SABTU DISKUSI 
   https://www.vulnhub.com/entry/damn-vulnerable-web-application-dvwa-107,43/
+  
+  nama format image paling ringan. webp
